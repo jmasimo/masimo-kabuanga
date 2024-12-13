@@ -1,0 +1,71 @@
+Parcelle;Recouvrements;Cuivre;Zinc;Arsenic;Plomb;id;Distance_smelter;NDVI;Slope;TWI;Geology
+P01;Vegetation et matiere organique;1906,75;625,50;1160,50;4649,00;1;1816,23915;0,25197345;29,20593262;7;Acid intrusive rocks
+P02;Sols degrades melanges au till;2215,00;676,00;1887,00;6403,00;2;1848,974297;0,07251472;27,93835258;5;Acid intrusive rocks
+P03;Roche recouverte des elements anthropiques;495,33;150,00;51,67;196,33;3;1912,564399;0,117645107;26,56505203;5;Acid intrusive rocks
+P04;Roche nue lisse noire;2889,90;712,90;1277,25;5410,15;4;1175,025109;0,045928784;0;4;Acid intrusive rocks
+P05;Roche recouverte des elements anthropiques;133,25;86,11;92,80;174,11;5;2314,469322;0,103653885;0;5;Mafic volcanic rocks
+P06;Sols degrades melanges au till;1552,45;413,85;1101,00;3875,95;6;2385,573769;0,07175409;0;6;Mafic volcanic rocks
+P07;Roche nue lisse noire;2399,15;625,00;1382,15;6757,90;7;2295,807378;0,049785782;27,93835258;3;Mafic volcanic rocks
+P08;Vegetation et matiere organique;1105,63;285,88;474,00;2034,63;8;2336,53834;0,295678079;0;5;Mafic volcanic rocks
+P09;Vegetation et matiere organique;1481,81;500,63;851,63;3241,81;9;2440,083903;0,205983654;0;2;Mafic volcanic rocks
+P10;Roche recouverte des elements anthropiques;1932,05;397,20;1000,55;4234,50;10;2259,268266;0,066333741;27,93835258;2;Mafic volcanic rocks
+P11;Sols degrades melanges au till;1621,25;358,25;579,50;2216,00;11;2332,526519;0,090144001;0;2;Mafic volcanic rocks
+P12;Sols degrades melanges au till;1037,00;372,00;716,08;2557,25;12;2497,532133;0,097073846;27,93835258;4;Mafic volcanic rocks
+P13;Roche nue rugueuse;1609,55;527,95;1231,15;4311,70;13;2525,778709;0,056926902;21,56812859;2;Mafic volcanic rocks
+P14;Roche nue rugueuse;2096,81;905,88;1241,31;5549,31;14;2448,020889;0,061209496;10,02498817;5;Mafic volcanic rocks
+P15;Roche nue lisse noire;2372,05;826,35;1300,60;4706,65;15;2440,86216;0,085412852;0;4;Mafic volcanic rocks
+P16;Sols degrades melanges au till;1448,38;749,63;1071,63;3429,88;16;2782,62305;0,125578627;0;2;Mafic volcanic rocks
+P18;Till erode;2254,00;649,80;1711,70;6105,55;18;2217,961072;0,038579296;26,56505203;3;Acid intrusive rocks
+P19;Roche nue rugueuse;1723,35;461,15;1330,75;5676,90;19;2315,458305;0,052704837;21,56812859;3;Acid intrusive rocks
+P20;Roche nue rugueuse;2176,81;1020,00;1724,81;6621,88;20;2679,339737;0,066414662;26,56505203;1;Mafic volcanic rocks
+P21;Till erode;2038,60;709,70;1339,10;5851,35;21;3070,225259;0,04499412;10,02498817;3;Mafic volcanic rocks
+P22;Roche nue rugueuse;1413,11;459,74;865,42;3817,74;22;3374,784082;0,059352349;26,56505203;0;Mafic volcanic rocks
+P23;Roche nue rugueuse;1668,41;520,41;1384,64;5041,95;23;3649,743246;0,056746475;0;1;Mafic volcanic rocks
+P24;Roche nue rugueuse;752,10;409,25;830,10;2985,90;24;3940,076932;0,059538186;0;3;Acid intrusive rocks
+P25;Roche nue lisse noire;1134,81;490,24;819,38;3546,76;25;4188,403314;0,09426903;19,47122002;2;Acid intrusive rocks
+P26;Roche nue rugueuse;3046,70;619,70;1147,15;4281,40;26;1415,747114;0,037210297;10,02498817;2;Acid intrusive rocks
+P27;Till erode;1235,35;439,70;621,05;2738,30;27;1753,776772;0,068315625;0;5;Acid intrusive rocks
+P28;Roche nue rugueuse;753,00;412,55;523,50;2087,00;28;2024,055681;0,098039359;0;5;Acid intrusive rocks
+P29;Roche colonisee par le lichen;890,76;400,47;505,35;1392,53;29;2386,290422;0,170950398;29,20593262;4;Acid intrusive rocks
+P30;Roche colonisee par le lichen;561,15;436,15;260,60;817,15;30;3423,091313;0,151439816;26,56505203;2;Acid intrusive rocks
+P31;Roche nue rugueuse;1252,60;795,70;957,75;3213,15;31;3131,0198;0,090611123;0;1;Mafic volcanic rocks
+P32;Roche nue rugueuse;1351,25;478,90;901,15;3133,40;32;3014,360664;0,126733705;0;3;Mafic volcanic rocks
+P33;Roche nue lisse noire;1500,35;648,45;1123,75;3672,25;33;3080,104956;0,078036644;0;1;Mafic volcanic rocks
+P34;Roche nue lisse noire;1054,95;534,05;1057,05;2948,11;34;2993,438358;0,082254246;0;2;Mafic volcanic rocks
+P35;Roche nue rugueuse;1509,88;573,00;748,56;3280,19;35;3045,693981;0,185311317;0;3;Mafic volcanic rocks
+P36;Roche nue lisse noire;1208,00;485,50;831,10;3139,35;36;3139,510115;0,112497769;26,56505203;3;Mafic volcanic rocks
+P37;Roche nue rugueuse;1276,40;502,85;767,90;2920,95;37;2938,728996;0,101197459;0;4;Mafic volcanic rocks
+P38;Roche nue lisse noire;662,20;290,85;444,60;1927,75;38;2816,983743;0,149576545;38,32881927;4;Mafic volcanic rocks
+P39;Roche nue rugueuse;1249,55;501,70;589,70;2796,75;39;2855,973618;0,094089739;0;2;Mafic volcanic rocks
+P40;Roche colonisee par le lichen;952,70;1044,40;392,25;1375,80;40;2548,636078;0,143188536;0;2;Mafic volcanic rocks
+P41;Roche colonisee par le lichen;1268,75;1103,50;274,65;897,50;41;2601,112524;0,220875353;0;1;Mafic volcanic rocks
+P42;Vegetation et matiere organique;1290,88;276,88;126,13;514,25;42;4966,912672;0,260684937;0;3;Mafic volcanic rocks
+P43;Vegetation et matiere organique;708,06;397,00;574,44;1982,06;43;4906,108815;0,175984666;0;5;Mafic volcanic rocks
+P44;Roche colonisee par le lichen;580,75;363,10;480,35;1509,80;44;5003,881316;0,174138635;10,02498817;0;Mafic volcanic rocks
+P45;Roche colonisee par le lichen;603,95;399,65;457,30;1375,80;45;4882,02341;0,161583453;10,02498817;0;Mafic volcanic rocks
+P46;Till erode;871,63;348,63;354,21;1316,05;46;4840,95319;0,214384347;0;4;Mafic volcanic rocks
+P47;Roche nue rugueuse;818,32;482,89;550,95;1753,84;47;5026,155846;0,150866538;10,02498817;3;Mafic volcanic rocks
+P48;Roche nue rugueuse;1450,25;504,88;619,06;2231,69;48;5100,918915;0,15681769;21,56812859;3;Mafic volcanic rocks
+P49;Roche nue lisse noire;765,55;426,80;527,00;1568,05;49;5172,788865;0,189253688;45;0;Mafic volcanic rocks
+P50;Vegetation et matiere organique;1271,64;522,64;334,45;918,91;50;6251,046317;0,240804628;0;6;Siliciclastic sedimentary rocks
+P51;Roche nue rugueuse;782,10;465,55;538,25;1703,95;51;6187,278226;0,127934635;0;2;Siliciclastic sedimentary rocks
+P52;Roche nue lisse noire;683,75;255,05;217,20;715,95;52;6002,299089;0,201018438;0;4;Siliciclastic sedimentary rocks
+P53;Roche nue rugueuse;911,35;466,95;745,35;2161,25;53;5944,226415;0,171886072;26,56505203;2;Siliciclastic sedimentary rocks
+P54;Roche nue rugueuse;921,50;538,05;691,55;2090,40;54;5846,591939;0,133065805;14,03624344;1;Siliciclastic sedimentary rocks
+P55;Roche nue lisse noire;744,05;468,25;697,40;2133,75;55;5191,011178;0,088733301;21,56812859;1;Mafic volcanic rocks
+P56;Roche nue rugueuse;847,75;773,38;342,69;1124,56;56;3402,479965;0,186248884;10,02498817;3;Mafic volcanic rocks
+P57;Roche nue lisse noire;992,88;712,06;328,44;1102,44;57;3815,136454;0,177628517;0;1;Mafic volcanic rocks
+P58;Roche nue lisse noire;736,94;501,69;345,00;1020,75;58;3891,807107;0,241608024;19,47122002;2;Mafic volcanic rocks
+P59;Roche colonisee par le lichen;1087,95;785,90;312,35;819,80;59;4263,755774;0,204534158;0;1;Mafic volcanic rocks
+P60;Roche colonisee par le lichen;681,60;489,55;230,70;857,95;60;4418,173869;0,190579668;21,56812859;0;Mafic volcanic rocks
+P61;Roche nue rugueuse;520,81;559,63;322,50;1379,69;61;3480,44514;0,180436179;0;2;Mafic volcanic rocks
+P62;Roche nue rugueuse;670,00;591,88;414,00;1700,50;62;3879,804605;0,214265242;0;6;Mafic volcanic rocks
+P63;Roche nue rugueuse;469,69;386,78;288,50;1349,84;63;3837,902508;0,177481607;10,02498817;4;Mafic volcanic rocks
+P64;Roche nue lisse noire;672,60;446,75;342,85;749,35;64;6978,418836;0,12880975;10,02498817;0;Mafic volcanic rocks
+P65;Roche colonisee par le lichen;580,05;330,90;188,35;392,90;65;7011,141274;0,155872807;0;1;Mafic volcanic rocks
+P66;Roche colonisee par le lichen;683,10;443,40;329,50;694,30;66;7112,345973;0,138688073;0;1;Mafic volcanic rocks
+P67;Roche colonisee par le lichen;410,55;315,45;273,25;884,10;67;7007,374975;0,204177931;0;2;Mafic volcanic rocks
+P68;Roche recouverte des elements anthropiques;370,00;245,05;581,70;1603,25;68;7082,338761;0,16638644;0;5;Acid intrusive rocks
+P69;Roche colonisee par le lichen;619,75;339,56;283,31;739,19;69;7119,7078;0,183361426;0;5;Acid intrusive rocks
+P70;Roche nue rugueuse;793,55;431,90;429,05;604,75;70;7351,462616;0,16189304;0;2;Mafic volcanic rocks
+P71;Roche colonisee par le lichen;841,15;460,95;325,25;684,95;71;7246,450275;0,148872539;0;0;Mafic volcanic rocks
