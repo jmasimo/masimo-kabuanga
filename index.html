@@ -341,6 +341,16 @@
             <hr>
 npm install scholarly
 
+	from scholarly import scholarly
+
+# Recherchez l'auteur par son identifiant Google Scholar
+author_id = '9arl7TMAAAAJ'
+search_query = scholarly.search_author_id(author_id)
+author = scholarly.fill(search_query)
+
+# Affichez le nombre de citations
+print(f"Le nombre de citations de l'auteur est : {author['citedby']}")
+
     <section class="section bg-dark text-center">
     <div class="container">
         <div class="row text-center">
