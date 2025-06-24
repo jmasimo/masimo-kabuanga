@@ -13,17 +13,17 @@ Offrir un accès direct à mes publications scientifiques, cartes interactives, 
 Permettre aux collaborateurs, chercheurs ou institutions de me contacter facilement pour des échanges ou partenariats
 
 ## 📁 Contenu principal
-*Accueil* : brève introduction et accès rapide aux sections du site
+**Accueil** : brève introduction et accès rapide aux sections du site
 
-*À propos* : mon parcours, mes superviseurs, et mes affiliations universitaires
+**À propos** : mon parcours, mes superviseurs, et mes affiliations universitaires
 
-*Publications* : liste dynamique de mes articles, rapports et manuscrits en préparation, avec suivi automatique des citations Google Scholar
+**Publications** : liste dynamique de mes articles, rapports et manuscrits en préparation, avec suivi automatique des citations Google Scholar
 
-*Projets* : description détaillée de projets comme PROSTADDAR (Bas-Uélé, RDC)
+**Projets** : description détaillée de projets comme PROSTADDAR (Bas-Uélé, RDC)
 
-*Compétences* : SIG, télédétection, R, Python, modélisation spatiale
+**Compétences** : SIG, télédétection, R, Python, modélisation spatiale
 
-*Contact* : informations et formulaire de contact
+**Contact** : informations et formulaire de contact
 
 ## 🛠️ Technologies utilisées
 HTML5 / CSS3 / Bootstrap
@@ -38,7 +38,7 @@ Google Scholar (extraction via API tierce pour suivi des citations)
 Ce site est publié à titre personnel et académique. Sauf indication contraire, les contenus sont protégés par les droits d’auteur. Pour toute réutilisation ou collaboration, veuillez me contacter.
 
 ## 👤 Auteur
-Joël Masimo Kabuanga
+**Joël Masimo Kabuanga**
 Chercheur en conservation, télédétection et analyse de l’utilisation des terres
 
 Contact : lipmalex@gmail.com
