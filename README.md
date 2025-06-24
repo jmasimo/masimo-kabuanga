@@ -1,4 +1,4 @@
-²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²²# CV Joël Masimo Kabuanga
+# CV Joël Masimo Kabuanga
 Bienvenue sur mon site personnel, une plateforme dédiée à la présentation de mes recherches, publications, projets, compétences et engagements dans le domaine de l’écologie spatiale, de la télédétection, et de la conservation des forêts tropicales.
 
 ## 🔎 Objectif du site
