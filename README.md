@@ -1,17 +1,16 @@
+# CV Joël Masimo Kabuanga
 Bienvenue sur mon site personnel, une plateforme dédiée à la présentation de mes recherches, publications, projets, compétences et engagements dans le domaine de l’écologie spatiale, de la télédétection, et de la conservation des forêts tropicales.
 
-🔎 Objectif du site
+##🔎 Objectif du site
 Ce site a pour but de :
-
 Présenter mon parcours académique et professionnel
-
 Valoriser mes travaux de recherche sur la déforestation, la dégradation forestière et l'utilisation des terres en Afrique centrale
 
 Offrir un accès direct à mes publications scientifiques, cartes interactives, et projets de terrain
 
 Permettre aux collaborateurs, chercheurs ou institutions de me contacter facilement pour des échanges ou partenariats
 
-📁 Contenu principal
+##📁 Contenu principal
 Accueil : brève introduction et accès rapide aux sections du site
 
 À propos : mon parcours, mes superviseurs, et mes affiliations universitaires
@@ -26,7 +25,7 @@ Compétences : SIG, télédétection, R, Python, modélisation spatiale
 
 Contact : informations et formulaire de contact
 
-🛠️ Technologies utilisées
+##🛠️ Technologies utilisées
 HTML5 / CSS3 / Bootstrap
 
 JavaScript pour les dynamiques (compteurs automatiques, appels aux API)
@@ -35,7 +34,7 @@ Intégration ArcGIS pour les cartes interactives
 
 Google Scholar (extraction via API tierce pour suivi des citations)
 
-📜 Licence
+##📜 Licence
 Ce site est publié à titre personnel et académique. Sauf indication contraire, les contenus sont protégés par les droits d’auteur. Pour toute réutilisation ou collaboration, veuillez me contacter.
 
 👤 Auteur
